@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyyp1
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Convolutional Neural Network
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
